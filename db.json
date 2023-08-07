@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Lucas",
+      "surname": "Torcivia",
+      "email": "lucast@email.com",
+      "password": "123456789",
+      "token": "asdasdaasd",
+      "id": 1
+    },
+    {
+      "name": "Pepe",
+      "surname": "Perez",
+      "email": "pepep@email.com",
+      "password": "123456789",
+      "token": "asdasdaasd",
+      "id": 1
+    },
+    {
+      "name": "Martin",
+      "surname": "Olivar",
+      "email": "olivermart@email.com",
+      "password": "123456789",
+      "token": "asdasdaasd",
+      "id": 1
+    }
+  ]
+}
